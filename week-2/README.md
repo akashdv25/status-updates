@@ -88,9 +88,59 @@ GCP's strength in data analytics and machine learning is notable. Here's their d
 
 ## Tuesday: Deep Dive
 
-*Exploring new concepts and technologies.*
 
-[Content to be added]
+#### Reverse Knowledge Transfer Presentation: Rising to the Challenge
+
+In a pivotal moment of professional growth, I delivered a reverse knowledge transfer presentation to senior leadership. The atmosphere was electric as I shared my journey of adaptation and triumph. With gratitude in my heart, I began by acknowledging the precious time our seniors invested in hearing our voices.
+
+#### The Ubuntu Chronicles: Conquering New Territories
+From the familiar shores of Windows to the uncharted territories of Ubuntu, my journey was nothing short of transformative. The initial days were a dance with uncertainty, but as they say, "smooth seas never made a skilled sailor." I emerged victorious, mastering:
+
+- The intricate world of `.appimage` files
+- The power of `.deb` packages
+- The commanding presence of `apt`
+- The versatility of `snap` package manager
+
+Each challenge was met with unwavering determination, turning obstacles into stepping stones.
+
+![presentation](presentation.jpeg)
+
+#### Feedback: Pearls of Wisdom
+The presentation sparked a cascade of invaluable feedback,(which ofcourse I cant mention in depth here xD) illuminating the path forward. Key focus areas emerged like constellations guiding a night traveler:
+
+- Networking OS
+- Python
+- SQL
+- Data Science Fundamentals
+- Prompting
+- Cloud Technologies
+
+#### AWS Expedition: Venturing into the Cloud ☁️
+
+The day's journey didn't end with the presentation. Like a determined explorer, I ventured into the vast expanse of AWS, discovering:
+
+#### Core Services Discovered
+1. **EC2 (Elastic Compute Cloud)**
+   - The beating heart of cloud computing
+   - Virtual servers in the cloud
+
+2. **S3 (Simple Storage Service)**
+   - The fortress of data storage
+   - Buckets of infinite possibilities
+
+3. **IAM (Identity and Access Management)**
+   - Crafted a new user account
+   - Bestowed administrative powers while maintaining security
+   - A strategic move away from root access
+
+#### Key Achievements 🏆
+- Successfully delivered an impactful reverse KT
+- Explored Ubuntu package management
+- Initiated AWS cloud journey
+- Implemented IAM best practices
+
+#### Looking Ahead 🔭
+Armed with feedback and newfound knowledge, the path ahead is clear. Each step forward is a step toward mastery in this ever-evolving technological landscape. 
 
 ---
 
