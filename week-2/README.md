@@ -15,7 +15,6 @@ Here's what the the process looked like:
 ![Debugging in Action](python-debug.png)
 
 
-![Breakpoint Setup](trouble-debug.png)
 
 This hands-on experience with debugging tools has already made me feel more confident about troubleshooting code issues. It's amazing how these tools can make the debugging process so much more intuitive!
 
@@ -83,7 +82,8 @@ GCP's strength in data analytics and machine learning is notable. Here's their d
 
 ![AWS Console](aws-azure-gcp3.png)
 
-![AWS Console](aws-azure-gcp4.png)
+
+
 ---
 
 ## Tuesday: Deep Dive
