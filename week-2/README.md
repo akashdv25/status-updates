@@ -160,9 +160,6 @@ Learned about virtualization - basically
 
 ![](virtualization.png)
 
-### IAM: My First Steps into AWS Security 🔐
-Created my very first IAM user today - felt like getting a VIP pass to the cloud! Gave it admin access because, well, go big or go home! (Don't worry, following best practices! 😉)
-
 
 
 ### EC2: My Virtual Computer in the Sky! 💻
