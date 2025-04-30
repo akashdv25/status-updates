@@ -144,11 +144,80 @@ Armed with feedback and newfound knowledge, the path ahead is clear. Each step f
 
 ---
 
-## Wednesday: Midweek Progress
+## Wednesday: AWS Adventures & Big Data Discoveries! 🚀
 
-*Building on knowledge and implementing solutions.*
+*Today was an absolute rollercoaster of cloud computing and big data exploration!*
 
-[Content to be added]
+### Morning AWS Shenanigans ☁️
+
+Started my day by diving deep into AWS fundamentals with this awesome tutorial:
+[AWS Full Course for Beginners](https://www.youtube.com/watch?v=rKNSc8RrwxA)
+
+![](aws-1.png)
+
+### Virtualization: The Matrix of Cloud Computing 🤯
+Learned about virtualization - basically 
+
+![](virtualization.png)
+
+### IAM: My First Steps into AWS Security 🔐
+Created my very first IAM user today - felt like getting a VIP pass to the cloud! Gave it admin access because, well, go big or go home! (Don't worry, following best practices! 😉)
+
+
+
+### EC2: My Virtual Computer in the Sky! 💻
+The excitement was real when I launched my first EC2 instance! Learned about:
+- Different EC2 instance types (there are so many!)
+
+![](ami3.png)
+
+![](ami2.png)
+- AMI (Amazon Machine Images) - like choosing your favorite OS flavor
+- Selected Ubuntu (keeping it familiar!)
+
+![](ami.png)
+
+![](ami-4.png)
+
+### Security Groups: The Bouncers of the Cloud 🚧
+Got to know about security groups in network settings - they're like the cool bouncers who decide who gets in and who doesn't! 
+
+### SSH Adventures: Local CLI meets Cloud CLI 🤝
+Successfully connected my local command line to the cloud instance using SSH - felt like a proper cloud ninja! 
+
+### S3 Bucket Brigade! 🪣
+- Created my first S3 bucket (it's like a super-powered Dropbox!)
+
+![](s3-1.png)
+
+- Uploaded and hosted a static website (Hello World, but make it cloud!)
+
+![](hello-world.png)
+
+
+- Wrestled with bucket policies to make the website public (and won! 💪)
+
+![](policy.png)
+
+### Quick Visits to Other AWS Services 🎯
+- DynamoDB: NoSQL database that scales like crazy
+- Amazon RDS: For when you need that traditional database feel
+- Lambda: Serverless functions that run on events (magic, basically!)
+
+### Big Data Finale: A Journey Through Time 📚
+Ended the day with some mind-bending big data history:
+
+![](big-data.png)
+
+- How Google changed everything with their groundbreaking papers
+- MapReduce: The OG of big data processing
+- Google File System: Making distributed storage cool
+- Hadoop: The elephant that took inspiration from Google
+- Apache Spark: The new kid on the block, making big data processing faster than ever!
+
+![](use-case.png)
+
+
 
 ---
 
