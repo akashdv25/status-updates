@@ -134,6 +134,8 @@ It started with looking something like this , i know i know but i improved.
 
 ![chat-bot](chat-final.png)
 
+Click here to view the [gitub-repo](https://github.com/akashdv25/Gemini-postgres-repo) !
+
 ### Challenges and Learnings
 
 While setting up, I faced a few challenges. Not knowing JavaScript was a hurdle, but AI came to the rescue. I shared the chatbot in the group and received a 'Good job!' from my boss.   
