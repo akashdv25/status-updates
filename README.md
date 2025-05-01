@@ -52,6 +52,12 @@ Dataverze is a leading company in the field of data science and analytics, provi
 
 This repository is organized into folders for each week of my internship. Each folder contains its own `README.md` file where I update my status, document my progress, and reflect on my learnings for that week. This structure helps in maintaining a clear and organized record of my journey.
 
+
+- [Week 1 Documentation](week-1/README.md)
+- [Week 2 Documentation](week-2/README.md)
+- [Week 3 Documentation](week-3/README.md)
+- [Week 4 Documentation](week-4/README.md)
+
 ---
 
 ## Connect with Me
