@@ -56,7 +56,7 @@ To top it all off, we were handed a fantastic course from Udemy that dives into 
 
 Today, I dove into the course we were given and covered several modules. I set up essential software like pgAdmin and PostgreSQL, which was quite an adventure!
 
-I encountered some issues during the installation of pgAdmin, but thankfully, I found a helpful blog post that guided me through the process. The blog [Install and Configure PostgreSQL and pgAdmin on Ubuntu 20.04 | 22.04](https://medium.com/yavar/install-and-configure-postgresql-and-pgadmin-on-ubuntu-20-04-22-04-52c52c249b9e) provided clear steps to install the PostgreSQL server and pgAdmin, which made the setup much smoother.
+I encountered some issues during the installation of pgAdmin, but thankfully, I found a helpful blog post that guided me through the process. [The Blog](https://medium.com/yavar/install-and-configure-postgresql-and-pgadmin-on-ubuntu-20-04-22-04-52c52c249b9e) provided clear steps to install the PostgreSQL server and pgAdmin, which made the setup much smoother.
 
 ### Data Concepts
 
