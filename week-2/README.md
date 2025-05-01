@@ -218,11 +218,111 @@ Ended the day with some mind-bending big data history:
 
 ---
 
-## Thursday: Technical Insights
+## Thursday: AI/ML Cloud Adventures! 🤖
 
-*Diving deeper into advanced concepts.*
+*Diving into the fascinating world of AWS's AI and ML services and completing an assignment*
 
-[Content to be added]
+### Amazon SageMaker: Where ML Dreams Come True ✨
+Got my hands on SageMaker today - AWS's powerhouse for machine learning! It's like having a full-stack ML workshop in the cloud:
+- Build, train, and deploy ML models
+- Managed Jupyter notebooks for experimentation
+
+![ SageMaker Image](sagemaker-jupyter.png)
+
+- Automated model training and tuning
+- One-click model deployment
+
+![Space for SageMaker Image](sagemaker-krish.png)
+
+### Amazon Bedrock: The LLM Playground 🎮
+Explored Bedrock - AWS's newest addition to the AI family! It's like having a VIP pass to the world of Large Language Models:
+- Access to pre-trained foundation models
+
+![Bedrock Image](bedrock.png)
+
+- Played around in the model playground
+
+![Bedrock](bedrock-2.png)
+
+
+- Experimented with different prompts and settings
+
+![Bedrock](bedrock-llama.png)
+
+
+- Discovered various model options and their capabilities
+
+
+### Boto3: The Python Whisperer 🐍
+Got introduced to Boto3 - the Swiss Army knife for AWS automation in Python! This SDK is amazing:
+- Control AWS services with Python code
+- Automate AWS infrastructure
+- Manage resources programmatically
+- Interface with AWS services like they're Python objects
+
+### First Assignment: Time to Put Knowledge to Work! 💪
+After exploring these awesome AWS services, it was time to tackle my first assignment from my senior !
+
+![Space for Assignment Image](assi-1.png)
+
+The requirements were straightforward so I began to work , I explored various repo's to see how production grade code is maintained as I didnt want to submit just anyother assignment I wanted to submit THE ASSIGNMENT , I always make it dramatic XD
+
+![code-repo](pandas1.png)
+
+![code-repo](pandas2.png)
+
+After a bit of research I got the idea on how to properly structure my code and present it in a professional manner , so I got to work and ended up with this [github-repo](https://github.com/akashdv25/assignment-1) and this web-page 
+
+![web-app](web-app.png)
+
+with this [webapp-readme](https://akashdv25.github.io/assignment-1/).Pretty exciting stuff for me.
+
+During the assignment learnt about:
+
+* Use of __init__
+* Use of Magic methods
+* String formatters
+* And much more
+
+
+### Closing out with Intro to Distributed Computing and PySpark 🌟
+
+Ended the day by diving into the fascinating world of distributed computing! Here's what caught my attention:
+
+#### The Evolution: From Hadoop to Spark 🚀
+Discovered how the big data landscape evolved:
+- Started with Hadoop's revolutionary MapReduce
+- Learned why Spark became the cool kid on the block:
+  - In-memory processing (way faster than Hadoop's disk-based approach)
+  - More flexible than MapReduce's rigid two-step process
+  - Support for real-time processing
+  - Interactive data analysis capabilities
+
+![distributed](distributed.png)
+
+![pandas vs dask](distributed2.png)
+
+#### MapReduce: The OG of Distributed Processing 🗺️
+Got my mind blown learning about MapReduce:
+- How it breaks big problems into smaller chunks (Map)
+- Then combines results into final answers (Reduce)
+- Like having a massive team working on different parts of the same puzzle!
+
+![pandas vs dask](map-reduce.png)
+
+#### Framework Face-off: Dask vs Pandas vs PySpark 🥊
+Compared different distributed computing frameworks:
+- Pandas: The trusty old friend for smaller datasets
+- Dask: Like Pandas but with superpowers for bigger data
+- PySpark: The heavyweight champion for massive-scale data processing
+
+![pandas vs dask](pvsd.png)
+
+Watched some tutorials to prepare for tomorrow's deep dive into PySpark. Can't wait to get my hands dirty with some real distributed computing! 🔥
+
+
+
+
 
 ---
 

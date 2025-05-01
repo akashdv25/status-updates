@@ -60,6 +60,11 @@ This repository is organized into folders for each week of my internship. Each f
 
 ---
 
+## Assignments
+
+- [Assignment - 1](https://akashdv25.github.io/assignment-1/)
+
+
 ## Check-out the Repo website!
 
 [Repo-Website-link](https://akashdv25.github.io/status-updates/)
