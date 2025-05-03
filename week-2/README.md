@@ -326,11 +326,82 @@ Watched some tutorials to prepare for tomorrow's deep dive into PySpark. Can't w
 
 ---
 
-## Friday: Project Day
+## Friday: Deep Dive into Spark's Universe! 🌟
 
-*Applying knowledge to practical implementations.*
+*A day of unraveling Spark's architecture and getting hands-on with distributed computing*
 
-[Content to be added]
+### Spark Infrastructure: The Master Plan 🏗️
+Discovered the fascinating architecture of Spark:
+- Driver Program: The brain of the operation
+- Cluster Manager: The orchestrator of our distributed symphony
+- Worker Nodes: Our tireless computational warriors
+- Executors: The real MVPs doing the heavy lifting
+
+![Spark Architecture Image](spark-infra.png)
+
+![Spark Architecture Image](spark-infra2.png)
+
+![Spark Architecture Image](process.png)
+
+
+### RDDs: The Building Blocks of Spark Magic ✨
+Got mind-blown understanding Resilient Distributed Datasets (RDDs):
+- The fundamental data structure of Spark
+- How they enable parallel computation
+- Their interaction with DBFS (Databricks File System)
+- The beauty of fault tolerance
+
+![rdd Image](rdd.png)
+
+### Hadoop vs Spark: The Speed Revolution 🚀
+Understood the key differences:
+- Hadoop: Writes to disk (slower but cheaper)
+- Spark: Writes to memory (faster but more expensive)
+- Why this trade-off matters for different use cases
+
+![hadoop Image](hadvsspa.png)
+
+### Hands-on Adventures 🛠️
+Successfully set up my local Spark playground:
+- Configured Spark on my system
+- Got friendly with JVM (Java Virtual Machine)
+- Spun up my first cluster
+- Ran queries using Spark SQL on Databricks
+
+![hands-on](handson.png)
+
+![hand2-](hand2.png)
+
+![hand2-](hand3.png)
+
+![hand2-](hand4.png)
+
+
+### The Art of RDD Operations 🎨
+Mastered the two types of RDD operations:
+1. Transformations:
+   - Lazy evaluated
+   - Create a DAG workflow
+   - Don't execute until an action is called
+2. Actions:
+   - Instant execution
+   - Trigger the actual computation
+   - Return results to driver program
+
+![Space for RDD Operations DAG Image](rddops1.png)
+
+![Space for RDD Operations DAG Image](rddops2.png)
+
+![Space for RDD Operations DAG Image](rddops3.png)
+
+### Key Takeaways 🎯
+- Spark's in-memory processing is a game-changer
+- RDDs are the secret sauce of distributed computing
+- DAG-based execution makes operations efficient
+- The trade-off between memory and disk storage is crucial
+
+### Looking Forward 🔭
+Today was heavy on theory, but it laid a solid foundation! Can't wait to dive deeper into practical implementations and see these concepts in action! 
 
 ---
 
