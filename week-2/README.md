@@ -494,6 +494,7 @@ Completed some tutorials to understand:
 Started the day productively with local Spark experiments:
 - Spun up a Spark session
 - Performed basic data manipulations
+- Completed this [playlist](https://youtube.com/playlist?list=PLZoTAELRMXVNjiiawhzZ0afHcPvC8jpcg&feature=shared) by krish naik on Pyspark Handson
 - Check out the experiments here: [Experiment.ipynb](Experiment.ipynb)
 
 ### The Plot Twist: AWS Bill Discovery! 😱
