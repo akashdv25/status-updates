@@ -475,7 +475,7 @@ Completed some tutorials to understand:
 - Running SQL queries
 - Data transformations
 
-[Space for PySpark Tutorial Image]
+
 
 ### Key Learnings 🎯
 - DataFrames make life easier than raw RDDs
