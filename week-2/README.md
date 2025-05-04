@@ -405,18 +405,135 @@ Today was heavy on theory, but it laid a solid foundation! Can't wait to dive de
 
 ---
 
-## Saturday: Review & Reflect
+## Saturday: Hands-on with Spark & Modern Data Tools! 🛠️
 
-*Taking stock of the week's learning.*
+*A day of practical exploration and clearing up common confusions*
 
-[Content to be added]
+### Morning CLI Adventures ⌨️
+Started the day by getting familiar with Spark on the command line:
+- Set up Spark CLI successfully
+- Configured the environment
+- Got everything running smoothly
+
+![Space for CLI Setup Image](cli.png)
+
+### The Evolution: From RDDs to DataFrames 📈
+Learned about how Spark data handling evolved:
+- RDDs: The original building blocks
+- DataFrames: The newer, more user-friendly approach
+- Key differences:
+  - DataFrames are like tables with columns and rows
+  - More optimized than RDDs
+  - Easier to work with 
+  - Used more commonly in modern Spark applications
+
+![Space for RDD vs DataFrame Image](compare.png)
+
+![Space for RDD vs DataFrame Image](compare2.png)
+
+### Databricks Playground Time! 🎮
+Had fun exploring Databricks:
+- Loaded up some DataFrames
+- Ran different types of queries
+- Got comfortable with the interface
+- Learned how to analyze data efficiently
+
+![Space for Databricks Interface Image](bricks.png)
+
+### Diving into Data Lakes & Delta Lake 🌊
+Discovered the world of modern data storage:
+- Data Lakes: The big pool of raw data
+- Delta Lake: The smart upgrade to data lakes
+  - Built on top of Parquet files
+  - Adds cool features like:
+    - Version control for your data (like Git for data!)
+    - ACID transactions (keeping data safe and consistent)
+    - Time travel (go back to previous versions)
+    - Schema enforcement (keeping data clean)
+    - Batch and realtime dataprocessing
+
+![Space for Delta Lake Architecture Image](delta.png)
+
+### Clearing Up the PySpark vs Hadoop Confusion 🤔
+Finally understood the big picture:
+- Hadoop isn't just MapReduce:
+  - It's a whole family of tools
+  - Includes HDFS (for storage)
+  - Has YARN (for resource management)
+  - MapReduce is just one part
+- PySpark is specifically a data processing engine
+  - Can actually work together with Hadoop
+  - Uses Python to make data processing easier
+  - Often faster than MapReduce for many tasks
+
+
+
+### Hands-on with PySpark 🐍
+Completed some tutorials to understand:
+- Basic data operations
+- How to read and write data
+- Running SQL queries
+- Data transformations
+
+[Space for PySpark Tutorial Image]
+
+### Key Learnings 🎯
+- DataFrames make life easier than raw RDDs
+- Delta Lake adds super useful features to data lakes
+- Hadoop and PySpark can be friends, not rivals
+- Modern data tools focus on making things simpler and faster
+
 
 ---
 
-## Sunday: Planning Ahead
+## Sunday: The Great AWS Billing Adventure! 💰
 
-*Preparing for the upcoming week.*
+*What started as a normal coding day turned into an AWS billing investigation!*
 
-[Content to be added]
+### Morning Spark Session ⚡
+Started the day productively with local Spark experiments:
+- Spun up a Spark session
+- Performed basic data manipulations
+- Check out the experiments here: [Experiment.ipynb](Experiment.ipynb)
+
+### The Plot Twist: AWS Bill Discovery! 😱
+While preparing to start an assignment, discovered an unexpected AWS bill from my practice sessions. 
+
+### The Investigation Journey 🔍
+Dug deep into AWS console to find the issue:
+1. SageMaker Services:
+   - Found active domain services
+   - Promptly deleted them
+2. IAM Cleanup:
+   - Discovered ~30 active roles
+   - Cleaned them all up
+3. Network Resources:
+   - Found an active NAT Gateway (sneaky!)
+   - Spotted and removed an Elastic IP
+   - Terminated all unnecessary services
+
+### The Plot Thickens! 📈
+- 5 hours after cleanup: Bill jumped to $3!
+- Tried accessing Cost Explorer for detailed analysis on hourly timeframe
+- Plot twist: Hourly timeframe Cost Explorer itself is a paid service 🤦‍♂️
+- Raised support ticket for investigation
+- Had a long discussion on all this issue with my senior Amit sir who guided me along the way and made me reaslise the importance of all these events.
+
+### Silver Linings ✨
+Even though the original assignment had to wait, learned valuable lessons:
+- AWS resource management
+- Importance of regular cleanup
+- Cost monitoring best practices
+- Debugging AWS billing
+- As they say, "Best $4 spent on learning!" 😅
+
+### Action Items for Next Week 📝
+- Continue investigating billing mystery
+- Keep monitoring AWS resources
+- Get back to the planned assignment
+- Stay excited for more learning at Dataverze!
+
+### Final Thoughts 💭
+What started as a billing surprise turned into an intensive learning experience about AWS resource management. Looking forward to Week 3 with excitement 🚀
 
 ---
