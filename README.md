@@ -64,7 +64,7 @@ This repository is organized into folders for each week of my internship. Each f
 
 - [Python Concept Explorer Assignment - 1](https://akashdv25.github.io/assignment-1/)
 - [PySpark Exploratory Data Analysis Assignment - 2](https://github.com/akashdv25/PySpark-EDA)
-
+- [Python Package Development Assignment - 3](https://github.com/akashdv25/sensitive_data_detector)
 
 ## Check-out the Repo website!
 
