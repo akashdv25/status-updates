@@ -215,17 +215,49 @@ All the challenges, solutions, and implementation details are thoroughly documen
 
 ---
 
-## Friday: Knowledge Integration
+## Weekend: PySpark Flight Data Analysis Project
 
-*Connecting the dots.*
+![](flights.png)
+
+This weekend, I worked on an exciting PySpark project analyzing flight data! Here's what I learned and accomplished:
+
+### Project Overview
+- Created a data analysis project using flight data from 2015
+- Built the entire project using PySpark for big data processing
+- Made my Jupyter notebook look really nice with clear sections and explanations
+
+### Technical Skills Learned
+1. **Repartitioning in PySpark**
+   - Learned how to better organize data across partitions
+   - Used repartition() to control how data is split up
+   - This helps make my queries run faster
+
+2. **User Defined Functions (UDF)**
+   - Created my own custom functions in PySpark
+   - Learned the proper syntax for UDFs
+   - Used them to create new columns and transform data
+   - Also compared them with native pyspark functions and got to know how they are slower than normal pyspark functions
+
+3. **Broadcast Joins**
+   - Discovered how to make joins more efficient
+   - Used broadcast joins when joining large and small tables
+   - This really helps speed up my data processing
+
+### Data Analysis
+- Analyzed flight delays across different airlines
+- Found interesting patterns about which airports have most delays
+- Worked with a large dataset and learned how to handle it efficiently
+
+### Project Structure
+- Organized my code properly in different files
+- Created clear documentation
+- Made my notebook easy to read with good markdown sections
+- Added comments to explain complex parts of the code
+
+You can check out my project here: [PySpark Flight Data Analysis](https://github.com/akashdv25/PySpark-EDA-Flights-Data)
 
 
-## Saturday: Weekend Learning
+This weekend project really helped me understand PySpark better and improved my data analysis skills!
 
-*Exploring and experimenting.*
-
-
-## Sunday: Weekly Review
-
-*Reflecting and planning ahead.*
-
+---
+👋 Sayonara! See you next week for more exciting learning adventures! ✨
