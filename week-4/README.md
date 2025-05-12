@@ -41,6 +41,15 @@ After refactoring the code base and raising the PR , went ahead and checked the 
 
   ![ci-cd-success.png](ci-cd-success.png)
 
+#### Hovering over Licenses 📝
+
+- Learnt about the different types of licenses and their purposes
+  
+  ![](licens.png)
+
+  ![](licens2.png)
+
+  
 
 #### Learnings 🎯
 Today I learnt about:
