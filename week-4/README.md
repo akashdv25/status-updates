@@ -1,4 +1,4 @@
-# Week 3 Status Updates
+# Week 4 Status Updates
 
 ## Monday: Refactoring Adventures
 
@@ -61,12 +61,90 @@ Today I learnt about:
 
 
 ---
+## Tuesday: Open Source & Learning Journey 📚
+
+### Morning Inspiration 🌟
+- Received surprise books from Amit sir! 
+- One focused on system design concepts other on ML by statquest Joshua Starmer the fascinating thing it was a signed copy from him 
+
+  ![book.png](book1.png)
+
+  ![book2.png](book2.png)
+
+- I even tagged him on twitter and he replied to me !!
+
+  ![twitter.png](twitter.jpeg)
+
+### Mentorship Session 💭
+Had an insightful session with Amit sir and Div sir where:
+- Discussed our current progress and activities
+- Amit sir shared valuable lessons from his tech journey
+- Key takeaway: Despite obstacles, learning to enjoy the process and believing in yourself is crucial
+
+### Technical Deep Dive 🛠️
+#### Pandas Local Setup
+- Successfully set up Pandas locally for open source contributions
+- Learned about build tools:
+  - Meson and Ninja build systems
+  - CPython internals
+  - Why we're moving from setuptools to meson
+  - Migration from setup.py to pyproject.toml
+
+  ![meson.png](meson.png)
+
+#### Open Source Contribution Prep
+- Explored Pandas repository's issues section
+- Studied:
+  - Contribution guidelines
+  - Merged PR commits
+  - Best practices for commit messages
+  - Writing effective PR descriptions
+
+  ![pr_commits.png](pr_commits.png)
+
+### Blog Writing ✍️
+Wrote a detailed guide on setting up Pandas locally:
+- Published on Medium: [Setup Pandas Locally for Open Source Contributions](https://medium.com/@akashanandani.56/setup-pandas-locally-for-open-source-contributions-582fba71ec55)
+
+  ![blog.png](blog.png)
+
+### Git Essentials 🌿
+Learned crucial git concepts:
+- Rebase vs Merge differences
+
+  ![git_essentials.png](git_essentials.png)
+  
+- Handling merge conflicts
+- Complete open source contribution workflow:
+  1. Fork repository
+  2. Clone locally
+  3. Setup upstream
+  4. Sync forked main branch:
+     ```
+     git checkout main
+     git fetch upstream main
+     git rebase upstream/main
+     ```
+  5. Create feature branch
+  6. Make changes and commit
+  7. Sync with upstream main:
+     ```
+     git fetch upstream main
+     git rebase upstream/main
+     ```
+  8. Push to forked repo
+  9. Create pull request
+  10. Merge changes
+
+  
+
+> *A day full of learning and preparation for open source contributions!* 🚀
+
+---
 
 
 
 
-
-## Tuesday: 
 ## Wednesday: Let's Get Started! 😎
 ## Thursday: Let's Get Started! 😎
 ## Friday: Let's Get Started! 😎
