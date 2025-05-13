@@ -67,9 +67,15 @@ This repository is organized into folders for each week of my internship. Each f
 - [Python Package Development Assignment - 3](https://github.com/akashdv25/sensitive_data_detector)
 - [PySpark Flight Data Analysis Assignment - 4](https://github.com/akashdv25/PySpark-EDA-Flights-Data )
 
+## My Published Articles
+
+- [How to setup Pandas locally for open source contributions](https://medium.com/@akashanandani.56/setup-pandas-locally-for-open-source-contributions-582fba71ec55)
+
+
+
 ## Check-out the Repo website!
 
-[Repo-Website-link](https://akashdv25.github.io/status-updates/)
+- [Repo-Website-link](https://akashdv25.github.io/status-updates/)
 
 ## Connect with Me
 
