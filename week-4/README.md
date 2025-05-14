@@ -145,7 +145,7 @@ Learned crucial git concepts:
 
 ## Wednesday: Grind & Shine 😎
 
-## Networking & API Development Journey 🌐
+### Networking & API Development Journey 🌐
 
 ### Computer Networking Fundamentals 📡
   
