@@ -143,9 +143,152 @@ Learned crucial git concepts:
 ---
 
 
+## Wednesday: Grind & Shine 😎
+
+## Networking & API Development Journey 🌐
+
+### Computer Networking Fundamentals 📡
+  
+  ![networking.png](networking2.png)
+
+Studied networking basics from [GeeksForGeeks](https://www.geeksforgeeks.org/basics-computer-networking/), covering:
+- Network architecture
+- Basic networking concepts
+- Data transmission fundamentals
+  
+  ![networking.png](networking.png)
+
+### API Deep Dive 🔄
+Explored different types of APIs and their use cases:
+
+  ![api.png](api.png)
+
+#### 1. REST API
+- Representational State Transfer
+- Uses HTTP methods
+- Stateless architecture
+- Most common API type today
+
+#### 2. GraphQL API
+- Query language for APIs
+- Single endpoint
+- Client specifies exact data needs
+- Flexible data fetching
+
+#### 3. SOAP API
+- Simple Object Access Protocol
+- XML-based messaging protocol
+- Strict standards
+- Used in enterprise systems
+
+#### 4. WebSocket API
+- Real-time bidirectional communication
+- Persistent connections
+- Great for live data/chat apps
+- Full-duplex communication
+
+  ![websocket.png](api1.png)
+
+  ![websocket2.png](api2.png)
+
+### HTTP Methods Study 🔀
+Learned about core HTTP methods:
+- GET: Retrieve data
+- POST: Create new data
+- PUT: Update existing data
+- DELETE: Remove data
+
+### AWS Infrastructure Components ☁️
+
+  ![aws.png](vpc1.png)
+
+Studied AWS networking basics:
+- Virtual Private Cloud (VPC)
+  - Private network in the cloud
+  - Custom IP range
+- Subnets
+  - Network segmentation
+  - Public vs Private subnets
+- Internet Gateway
+  - Connection to internet
+  - Enable public access
+
+### FastAPI Implementation 🚀
+  
 
 
-## Wednesday: Let's Get Started! 😎
+  ![fastapi.png](fastapi.png)
+
+ learned about fastapi and made my own test server , fast api is a modern, fast (high-performance), web framework for building APIs it uses starlette for the web parts and pydantic for data handling
+
+
+  ![fastapi.png](fastapi-main.png)
+
+Built my first FastAPI test server:
+- Created basic endpoints
+- Implemented HTTP methods
+- Set up request/response handling
+- Explored API documentation using Swagger UI
+
+  ![fastapi2.png](fastapi2.png)
+
+Example of my test server code:
+```python
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+def read_root():
+    return {"Hello": "World"}
+
+@app.get("/items/{item_id}")
+def read_item(item_id: int):
+    return {"item_id": item_id}
+```
+
+#### Best Practices Learned from Stack Overflow 🎯
+
+  ![best_practices.png](best-practices.png)
+1. **API Naming Conventions**
+   - Use nouns instead of verbs in endpoints
+   - Use plural nouns for consistency
+   - Examples:
+     - ✅ Good: `/users`, `/items`, `/orders`
+     - ❌ Bad: `/getUser`, `/createItem`, `/deleteOrder`
+
+2. **Resource Hierarchy**
+   - Keep URLs clean and logical
+   - Use proper nesting for related resources
+   - Example: `/users/{id}/orders`
+
+3. **HTTP Methods Usage**
+   - GET for reading
+   - POST for creating
+   - PUT/PATCH for updating
+   - DELETE for removing
+
+4. **Status Codes**
+   - 200: Success
+   - 201: Created
+   - 400: Bad Request
+   - 404: Not Found
+   - 500: Server Error
+
+   ![status_codes.png](status-codes.png)
+
+5. **Query Parameters**
+   - Use for filtering, sorting, pagination
+   - Keep names clear and consistent
+   - Example: `/items?sort=desc&limit=10`
+
+  
+
+> *A productive day of learning modern web technologies and implementing them!* 💻
+
+---
+
+
 ## Thursday: Let's Get Started! 😎
 ## Friday: Let's Get Started! 😎
 ## Saturday: Let's Get Started! 😎
