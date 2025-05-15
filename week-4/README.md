@@ -289,7 +289,112 @@ def read_item(item_id: int):
 ---
 
 
-## Thursday: Let's Get Started! 😎
+## Thursday: Cloud Deployment & Real-time Communication 🚀
+
+### AWS EC2 Deployment 💻
+1. Created and Set Up EC2 Instance
+   - Launched new EC2 instance
+   - Connected locally using SSH
+   - Installed required packages:
+     * FastAPI
+     * Uvicorn server
+
+   - ![](aws-server.png)  
+
+2. Server Deployment
+   - Created test FastAPI server
+   - Deployed on EC2 instance
+   - Accessed using public IPv4 address
+   - Tested on port 8000
+
+  ![aws-server.png](aws.png)
+
+### FastAPI & Pydantic Implementation ⚡
+
+  ![pydantic.png](pydantic.png)
+
+- Studied Pydantic for data validation
+- Created Pydantic models for API
+- Tested API endpoints using Postman
+- Followed FastAPI official documentation
+- Learnt about async communication in fastapi  through the fastapi documentation and this beautiful story.
+
+  ![async.png](async.png)
+
+  ![async2.png](async2.png)
+
+  ![async3.png](async3.png)
+
+  ![async4.png](async4.png)
+
+  ![async5.png](async5.png)
+
+  ![async6.png](async6.png)
+
+  ![async7.png](async7.png)
+
+
+
+
+### Real-time Communication Deep Dive 🌐
+
+  ![real-time.png](course.png)
+
+#### Protocol Study
+- Learned about different protocols:
+  * TCP (Transmission Control Protocol)
+  * UDP (User Datagram Protocol)
+  * HTTP vs WebSocket vs WebRTC
+- Learnt how tcp is slower but more reliable than udp and how udp is used in real time communication
+- Learnt about the webRTC framework which uses udp and how it is used in real time communication
+
+  ![protocols.png](protocols.png)
+
+#### Voice Agents & Real-time APIs
+
+  ![voice-agents.png](voice-agents.png)
+
+1. **Communication Types**
+   - Real-time APIs
+   - Custom-built solutions
+   - WebSocket implementations
+
+  ![voice-agents2.png](voice-agents2.png)
+
+2. **LiveKit Exploration**
+
+  ![livekit.png](livekit.png)
+
+   - Open-source SDK for voice agents
+   - Real-time communication features
+   - Integration capabilities
+
+3. **WebRTC Framework**
+
+  ![webrtc.png](web-rtc.png)
+
+   - Open-source technology
+   - Uses UDP for faster communication
+   - Perfect for real-time audio/video
+
+#### Voice Agent Pipeline
+```
+User Audio → Speech-to-Text → LLM Token → Text-to-Speech → User Audio
+```
+
+  ![pipeline.png](pipeline.png)
+
+### Key Learnings 🎯
+- EC2 instance deployment
+- FastAPI with Pydantic
+- Real-time communication protocols
+- Voice agent architecture
+- WebRTC fundamentals
+
+> *A day full of practical implementations and learning about real-time communication!* 🚀
+
+---
+
 ## Friday: Let's Get Started! 😎
 ## Saturday: Let's Get Started! 😎
 ## Sunday: Let's Get Started! 😎
