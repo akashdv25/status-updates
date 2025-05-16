@@ -395,6 +395,76 @@ User Audio → Speech-to-Text → LLM Token → Text-to-Speech → User Audio
 
 ---
 
-## Friday: Let's Get Started! 😎
+## Friday: Voice Agent Development with VAPI.AI 🎙️
+
+### Project Overview
+Created a voice agent system using VAPI.AI after discussing requirements with Anant. The project focuses on making automated calls and handling call data efficiently.
+
+![locally.png](locally.png)
+
+### Technical Implementation 🛠️
+
+#### 1. VAPI Integration Setup
+- Explored VAPI.AI documentation
+- Learned about making POST requests to VAPI API endpoints
+- Key configurations required:
+  * VAPI API key
+  * Assistant ID (via dashboard/API)
+  * Phone number ID
+
+  ![vapi.png](dash.png)
+
+#### 2. Phone System Configuration 📞
+- Initially tested with VAPI's free number
+- Discovered international calling limitations
+- Implemented Twilio integration:
+  * Created Twilio account
+  * Added international calling support
+  * Integrated Twilio number with VAPI dashboard
+  * Generated phone number ID for API calls
+
+  ![.png](twilio.png)
+
+#### 3. Server Implementation 🌐
+- Built custom server for handling VAPI events
+- Set up webhook endpoints for:
+  * Call data
+  * Chat transcripts
+  * Timestamps
+  * Call status updates
+- Implemented CSV logging for call data
+
+  ![server.png](archi.png)
+
+#### 4. Public Access Setup 🔄
+- Used ngrok for public URL generation
+- Enabled VAPI server event reception
+- Configured webhook URL in VAPI dashboard
+- Successfully tested end-to-end flow
+
+  ![ngrok.png](ngrok.png)
+
+### Data Flow Architecture
+```python
+POST Request → VAPI API → Twilio Call → Server Events → Local CSV
+```
+
+### Key Learnings 🎯
+- VAPI.AI API integration
+- Webhook handling for voice agents
+- Twilio international calling setup
+- Server event logging
+- Public URL tunneling with ngrok
+
+> *Successfully implemented a voice agent system with real-time call handling and data logging!* 🚀
+
+Check out the complete project here: [Voice-Agents Repository](https://github.com/akashdv25/Voice-Agents)
+
+---
+
+
+
+
+
 ## Saturday: Let's Get Started! 😎
 ## Sunday: Let's Get Started! 😎

@@ -66,6 +66,7 @@ This repository is organized into folders for each week of my internship. Each f
 - [PySpark Exploratory Data Analysis Assignment - 2](https://github.com/akashdv25/PySpark-EDA)
 - [Python Package Development Assignment - 3](https://github.com/akashdv25/sensitive_data_detector)
 - [PySpark Flight Data Analysis Assignment - 4](https://github.com/akashdv25/PySpark-EDA-Flights-Data )
+- [Voice Agents Assignment - 5](https://github.com/akashdv25/Voice-Agents)
 
 ## My Published Articles
 
