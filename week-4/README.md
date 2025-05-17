@@ -463,8 +463,87 @@ Check out the complete project here: [Voice-Agents Repository](https://github.co
 ---
 
 
+## Saturday: PySpark & Databricks Deep Dive 🚀
+
+### PySpark Architecture Study 🏗️
+- Explored distributed computing architecture:
+  * Driver node (main control)
+  * Worker nodes (distributed processing)
+  * Executors (task execution)
+  * Cluster Manager (resource allocation)
+
+  ![pyspark.png](cluster.png)
+
+### PySpark Optimization Techniques 💡
+1. **Data Optimization**
+   - Partition tuning
+   - Caching strategies
+   - Memory management
+
+2. **Query Optimization**
+   - Using filter and where clause
+   - Join optimizations
+   - Broadcast joins
+   - Minimizing usage of collect and shuffle operations
 
 
 
-## Saturday: Let's Get Started! 😎
+### Directed Acyclic Graphs (DAGs) 📊
+- Studied PySpark's DAG execution
+- Understanding:
+  * Logical plan
+
+
+  ![dag.png](dag-pic.png)
+
+### Databricks ML Pipeline Implementation 🔄
+
+**Created a mock ml pipeline in databricks and ran it**
+
+#### Pipeline Components
+1. **Data Ingestion**
+   - Raw data loading
+   - Initial preprocessing
+   - Schema validation
+
+2. **Data Processing**
+   - Feature engineering
+   - Data transformation
+   - Cleaning operations
+
+3. **Model Training**
+   - Algorithm selection
+   - Hyperparameter tuning
+   - Cross-validation
+
+4. **Model Evaluation**
+   - Performance metrics
+   - Validation checks
+   - Error analysis
+
+  ![workflow.png](pip-1.png)
+
+  ![workflow2.png](pip-2.png)
+
+### Exploring Mlops
+
+  ![mlops.png](mlops.png)
+
+  ![mlops2.png](mlops2.png)
+
+
+
+
+### Key Learnings 📚
+- PySpark distributed architecture
+- Performance optimization techniques
+- Databricks workflow management
+- End-to-end ML pipeline creation
+- Understanding DAG-based execution flow
+
+
+> *A productive day of learning advanced PySpark concepts and implementing ML pipelines!* 🚀
+
+---
+
 ## Sunday: Let's Get Started! 😎
