@@ -354,14 +354,14 @@ def read_item(item_id: int):
 
   ![voice-agents.png](voice-agents.png)
 
-1. **Communication Types**
+  **Communication Types**
    - Real-time APIs
    - Custom-built solutions
    - WebSocket implementations
 
   ![voice-agents2.png](voice-agents2.png)
 
-2. **LiveKit Exploration**
+  **LiveKit Exploration**
 
   ![livekit.png](livekit.png)
 
@@ -369,7 +369,7 @@ def read_item(item_id: int):
    - Real-time communication features
    - Integration capabilities
 
-3. **WebRTC Framework**
+  **WebRTC Framework**
 
   ![webrtc.png](web-rtc.png)
 
