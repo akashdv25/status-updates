@@ -546,4 +546,3 @@ Check out the complete project here: [Voice-Agents Repository](https://github.co
 
 ---
 
-## Sunday: Let's Get Started! 😎
