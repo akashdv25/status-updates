@@ -58,6 +58,8 @@ This repository is organized into folders for each week of my internship. Each f
 - [Week 3 Documentation](week-3/README.md)
 - [Week 4 Documentation](week-4/README.md)
 - [Week 5 Documentation](week-5/README.md)
+- [Week 6 Documentation](week-6/README.md)
+
 ---
 
 ## Assignments
