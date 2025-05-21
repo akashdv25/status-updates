@@ -156,11 +156,111 @@ Concluded the day with a comprehensive review of fundamental machine learning co
 
 ![](2.png)
 
+## Wednesday: Deep Dive into Voice Agent Development 🎯
+
+### VAPI Documentation Exploration 📚
 
 
+Started the day with an extensive exploration of VAPI documentation to enhance our voice agent's capabilities. This deep dive was crucial for understanding the nuances of creating more natural and responsive voice interactions.
+
+#### Prompt Engineering Discoveries 🔍
+- **Voice Modulation Control**
+  - Capitalization impacts: Using CAPS for emphasis
+  - Punctuation effects: Strategic use of periods (..) for pacing
+  - Case sensitivity: Lower case for softer tones
+  
 
 
+#### Configuration Deep Dive ⚙️
+- **Speech Timing Controls**
+  - Interruption handling
+  - Response delay configuration
+  - Speaking optimization
 
+**Key Parameters Explored:**
+- Start Speaking Plan:  delay after user stops
+- End Speaking Plan: Interruption handling after  user speech
+
+
+### SIP Trunking Integration 🔌
+
+![](sip.png)
+
+#### What is SIP? 📞
+**Session Initiation Protocol (SIP)** is a signaling protocol used for initiating, maintaining, and terminating real-time communications including:
+- Voice calls
+- Video conferences
+- Instant messaging
+- Media distribution
+
+#### Understanding SIP Trunking 🌐
+SIP Trunking is a virtual connection between your organization and the Public Switched Telephone Network (PSTN) using the internet. Think of it as a virtual phone line that:
+- Replaces traditional physical phone lines
+- Enables voice calls over IP networks
+- Connects your voice system directly to the PSTN
+
+#### How SIP Trunking Works 🔄
+1. **Connection Setup**
+   - Creates virtual connections over existing internet
+   - Establishes secure channels for voice transmission
+   - Manages call routing and switching
+
+2. **Call Flow**
+   - Converts voice to data packets
+   - Transmits over IP network
+   - Reconverts to voice at destination
+
+#### Benefits Implemented 🌟
+1. **Cost Efficiency** 💰
+   - Reduced per-call costs
+   - Bulk calling capabilities
+   - Optimized resource utilization
+
+2. **Enhanced Performance** ⚡
+   - Lower latency
+   - Improved call quality
+   - Better network utilization
+
+3. **Scalability** 📈
+   - Easy capacity expansion
+   - Flexible routing options
+   - Load balancing capabilities
+
+#### Technical Implementation 🛠️
+- Successfully allowed VAPI IP addresses
+- Integrated Twilio number with SIP trunk
+- Optimized routing configurations
+
+
+### Voice Agent Tools Exploration 🔧
+
+![](tool.png)
+
+#### Core Tools Investigated 🛠️
+1. **end_call Tool**
+   - Graceful call termination
+   - Custom end messages
+   - State management during termination
+
+2. **Action Performance Tools**
+   - Task execution capabilities
+   - Integration with external systems
+   - Error handling mechanisms
+
+  ![](tool2.png)
+
+
+### MCP Integration Research 🔄
+Currently exploring Model-Context Protocol integration possibilities:
+
+
+ ![](mcp_research.png)
+
+### Key Learnings 🎓
+1. Voice modulation significantly impacts user experience
+2. Proper timing configurations create more natural conversations
+3. SIP trunking provides substantial cost and performance benefits
+4. Tool mastery is crucial for advanced agent capabilities
 
 
 
