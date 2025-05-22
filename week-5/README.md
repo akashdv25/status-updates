@@ -311,7 +311,7 @@ Updated  codebase for assistant creation:
 ### Advanced Features Implementation ⚙️
 #### Call Scheduling
 
-![](dynamic.jpeg)
+   ![](dynamic.jpeg)
 
 - **Dynamic Scheduling**
   - Time zone handling
