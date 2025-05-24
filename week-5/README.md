@@ -375,6 +375,100 @@ Updated  codebase for assistant creation:
 
 
 
+## Friday: Voice Agent Development Continued 🎯
+
+### POC Presentation & Team Discussion 🎤
+
+![](present.webp)
+
+#### Presentation Highlights
+- **Hour-long comprehensive discussion**
+- **Team feedback**: Positive response to the approach
+- **Senior Management Input**: Valuable guidance from Amit sir
+- **Future Enhancement Plans** discussed
+
+
+
+### Google Sheets Integration Implementation 📊
+
+![](sheets.webp)
+
+#### Project Setup 🛠️
+1. **Google Cloud Platform Configuration**
+   - Created new project in GCP
+   - Set up OAuth 2.0 credentials
+   - Downloaded and secured credentials.json
+   - Configured necessary API permissions
+
+
+
+#### Technical Implementation 💻
+1. **Library Integration**
+   - Installed required Google Sheets libraries
+   - Set up authentication workflow
+   - Configured sheet access permissions
+
+2. **Sheet Instance Management**
+   - Created sheet instance handler
+   - Implemented data manipulation methods
+   - Set up error handling and logging
+
+![](tools.png)
+
+#### Custom Tool Development 🔧
+1. **Sheet Update Tool**
+   - Developed `update_sheet` function
+   - Implemented in `g-sheets.py`
+   - Integrated with existing codebase
+
+2. **FastAPI Integration**
+   - Created new endpoint for sheet operation
+   - Implemented update operation
+   - Added request validation
+   - Set up response handling
+
+![](fastapi.png)
+
+#### Voice Agent Integration 🎯
+- **Tool Implementation**
+  - Connected sheet operations with voice agent
+  - Added voice commands for data manipulation
+  - Implemented confirmation workflows
+
+
+
+### Batch Calling Enhancement 📞
+#### Implementation Details
+
+- **Process Flow**
+  - Data extraction from sheets
+  - Call queue management
+  - Status updates in real-time
+
+
+
+### Key Achievements 🌟
+1. Successful POC presentation
+2. Team alignment on approach
+3. Google Sheets integration completed
+4. Enhanced batch calling functionality
+5. FastAPI endpoint implementation
+
+
+### Technical Documentation 📚
+- **Authentication Flow**
+  ```
+  GCP Project -> OAuth 2.0 -> Credentials -> Sheet Access
+  ```
+- **Data Flow**
+  ```
+  Voice Command -> FastAPI -> Sheet Operation -> Response
+  ```
+
+
+
+
+
 
 
 
