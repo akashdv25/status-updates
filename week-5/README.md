@@ -465,11 +465,136 @@ Updated  codebase for assistant creation:
   Voice Command -> FastAPI -> Sheet Operation -> Response
   ```
 
+## Weekend: Deep Dive into Web  & RAG System Development 🚀
+
+### Web  Fundamentals Study 🔐
+
+![](oauth.png)
+
+#### Authentication & Authorization Deep Dive 🛡️
+Understanding the core pillars of web security opened up new perspectives on secure system design:
+
+- **Authentication Exploration**
+  - Learned about various user verification methods
+  - Studied different authentication protocols
+  - Explored multi-factor authentication approaches
+  - Understood best practices for secure login systems
+
+![](jwt.png)
+
+#### JWT Token Implementation 🎟️
+Explored the power of JSON Web Tokens for secure information transmission:
+
+- **Token Structure Analysis**
+  - Header composition
+  - Payload configuration
+  - Signature verification
+  - Token lifecycle management
+
+- **Security Considerations**
+  - Token storage best practices
+  - Expiration strategies
+  - Refresh token patterns
+
+![](jwt2.png)
+
+#### OAuth 2.0 Framework Study 🔄
+Deep dive into modern authorization framework:
+
+- **Core Concepts**
+  - Authorization flows
+  - Scope management
+  - Token handling
+  - Client registration
+
+- **Implementation Patterns**
+  - Authorization code flow
+  - Client credentials
 
 
+#### Server Architecture Study 🏗️
+Explored different server configurations and their use cases:
+
+- **Proxy Servers**
+  - Forward proxy functionality
+  - Client request handling
+  - Security benefits
+  - Performance optimization
+
+- **Reverse Proxy Deep Dive**
+  - Load balancing capabilities
+  - Caching strategies
+  - Security enhancement
+
+![](ngnix.png)
+
+- **Web Servers Comparison**
+  - Nginx capabilities and use cases
+  - Apache server architecture
+  - Performance characteristics
+  - Configuration best practices
+
+![](web-host.png)
+
+### RAG System Project Implementation 🤖
+
+![](rag-imp.png)
+
+#### Project Architecture 📐
+Built a comprehensive RAG system utilizing modern technologies:
+
+- **Core Components**
+  - LLM integration for intelligent processing
+  - Vector store implementation for efficient retrieval
+  - Advanced retriever mechanisms
+  - Dynamic prompt template system
+
+![](rag-git.png)
+
+#### Technical Stack Implementation 💻
+Integrated cutting-edge technologies for optimal performance:
+
+1. **Database Layer**
+   - ChromaDB implementation for vector storage
+   - Efficient similarity search
+   - Scalable document management
+   - Optimized query processing
+
+2. **Embedding System**
+   - Hugging Face sentence transformers
+   - Semantic representation generation
+   - Context-aware embeddings
+   - Optimization for retrieval
+
+3. **User Interface**
+   - Streamlit implementation
+   - Intuitive design
+   - Real-time interaction
+   - Responsive layout
+
+![](ui.png)
+
+4. **Processing Pipeline**
+   - Cerebras integration for fast inference
+   - Efficient data processing
+   - Optimized response generation
+   - Low latency implementation
+
+5. **RAG Implementation**
+   - LangChain ecosystem integration
+   - End-to-end pipeline setup
+   - Context-aware retrieval
+   - Dynamic response generation
 
 
+### Key Learnings 📚
+1. Comprehensive understanding of web security
+2. Practical implementation of OAuth 2.0
+3. Advanced RAG system architecture
+4. Modern tech stack integration
+5. Performance optimization techniques
 
+`Ok girls and boys this is the end of week 5 Thankyou for your time and patience`
 
 
 

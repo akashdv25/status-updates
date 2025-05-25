@@ -59,6 +59,10 @@ This repository is organized into folders for each week of my internship. Each f
 - [Week 4 Documentation](week-4/README.md)
 - [Week 5 Documentation](week-5/README.md)
 - [Week 6 Documentation](week-6/README.md)
+- [Week 7 Documentation](week-7/README.md)
+- [Week 8 Documentation](week-8/README.md)
+- [Week 9 Documentation](week-9/README.md)
+
 
 ---
 
@@ -69,6 +73,7 @@ This repository is organized into folders for each week of my internship. Each f
 - [Python Package Development Assignment - 3](https://github.com/akashdv25/sensitive_data_detector)
 - [PySpark Flight Data Analysis Assignment - 4](https://github.com/akashdv25/PySpark-EDA-Flights-Data )
 - [Voice Agents Assignment - 5](https://github.com/akashdv25/Voice-Agents)
+- [Medical Assistant Assignment - 6](https://github.com/akashdv25/medical-ai-assistant)
 
 ## My Published Articles
 
