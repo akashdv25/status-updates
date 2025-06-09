@@ -74,10 +74,16 @@ This repository is organized into folders for each week of my internship. Each f
 - [PySpark Flight Data Analysis Assignment - 4](https://github.com/akashdv25/PySpark-EDA-Flights-Data )
 - [Voice Agents Assignment - 5](https://github.com/akashdv25/Voice-Agents)
 - [Medical Assistant Assignment - 6](https://github.com/akashdv25/medical-ai-assistant)
+- [Livekit Voice Agent Assignment - 7](https://github.com/akashdv25/Livekit-google)
+- [Pandas AGI Assignment - 8](https://github.com/akashdv25/Pandas-agi)
+- [E2E ML Pipeline Assignment - 9](https://github.com/akashdv25/E2E-ML-Pipeline)
+
 
 ## My Published Articles
 
 - [How to setup Pandas locally for open source contributions](https://medium.com/@akashanandani.56/setup-pandas-locally-for-open-source-contributions-582fba71ec55)
+- [How characters become code and code stays secure](https://medium.com/@akashanandani.56/how-characters-become-code-and-code-stays-secure-307e6593e14e)
+- [Building an end-to-end ML pipeline for bank customer churn prediction](https://medium.com/@akashanandani.56/building-an-end-to-end-ml-pipeline-for-bank-customer-churn-prediction-9c754162e8d3)
 
 
 
