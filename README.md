@@ -84,7 +84,8 @@ This repository is organized into folders for each week of my internship. Each f
 - [How to setup Pandas locally for open source contributions](https://medium.com/@akashanandani.56/setup-pandas-locally-for-open-source-contributions-582fba71ec55)
 - [How characters become code and code stays secure](https://medium.com/@akashanandani.56/how-characters-become-code-and-code-stays-secure-307e6593e14e)
 - [Building an end-to-end ML pipeline for bank customer churn prediction](https://medium.com/@akashanandani.56/building-an-end-to-end-ml-pipeline-for-bank-customer-churn-prediction-9c754162e8d3)
-
+- [Interpreting black box models with SHAP a beginners guide](https://medium.com/@akashanandani.56/interpreting-black-box-models-with-shap-a-beginners-guide-c50f45b3161d)
+- [Model monitoring in machine learning explained with evidently ai](https://medium.com/@akashanandani.56/model-monitoring-in-machine-learning-explained-with-evidently-ai-c45559af0e22)
 
 
 ## Check-out the Repo website!
