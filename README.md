@@ -60,26 +60,29 @@ This repository is organized into folders for each week of my internship. Each f
 - [Week 5 Documentation](week-5/README.md)
 - [Week 6 Documentation](week-6/README.md)
 - [Week 7 Documentation](week-7/README.md)
-- [Week 8 Documentation](week-8/README.md)
-- [Week 9 Documentation](week-9/README.md)
+
 
 
 ---
 
 ## Assignments
 
-- [Python Concept Explorer Assignment - 1](https://akashdv25.github.io/assignment-1/)
-- [PySpark Exploratory Data Analysis Assignment - 2](https://github.com/akashdv25/PySpark-EDA)
-- [Python Package Development Assignment - 3](https://github.com/akashdv25/sensitive_data_detector)
-- [PySpark Flight Data Analysis Assignment - 4](https://github.com/akashdv25/PySpark-EDA-Flights-Data )
-- [Voice Agents Assignment - 5](https://github.com/akashdv25/Voice-Agents)
-- [Medical Assistant Assignment - 6](https://github.com/akashdv25/medical-ai-assistant)
-- [Livekit Voice Agent Assignment - 7](https://github.com/akashdv25/Livekit-google)
-- [Pandas AGI Assignment - 8](https://github.com/akashdv25/Pandas-agi)
-- [E2E ML Pipeline Assignment - 9](https://github.com/akashdv25/E2E-ML-Pipeline)
+- [Python Concept Explorer Assignment](https://akashdv25.github.io/assignment-1/)
+- [PySpark Exploratory Data Analysis Assignment](https://github.com/akashdv25/PySpark-EDA)
+- [Python Package Development Assignment](https://github.com/akashdv25/sensitive_data_detector)
+- [PySpark Flight Data Analysis Assignment](https://github.com/akashdv25/PySpark-EDA-Flights-Data )
+- [Voice Agents Assignment](https://github.com/akashdv25/Voice-Agents)
+- [Medical Assistant Assignment](https://github.com/akashdv25/medical-ai-assistant)
+- [Livekit Voice Agent Assignment](https://github.com/akashdv25/Livekit-google)
+- [Pandas AGI Assignment](https://github.com/akashdv25/Pandas-agi)
+- [E2E ML Pipeline Assignment](https://github.com/akashdv25/E2E-ML-Pipeline)
+
+## My Published Videos
+
+- [Book Review - Designing Machine learning systems ](https://youtu.be/EahSR8sW7x4?feature=shared)
 
 
-## My Published Articles
+## My Published Blogs
 
 - [How to setup Pandas locally for open source contributions](https://medium.com/@akashanandani.56/setup-pandas-locally-for-open-source-contributions-582fba71ec55)
 - [How characters become code and code stays secure](https://medium.com/@akashanandani.56/how-characters-become-code-and-code-stays-secure-307e6593e14e)
