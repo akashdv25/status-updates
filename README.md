@@ -67,15 +67,17 @@ This repository is organized into folders for each week of my internship. Each f
 
 ## Assignments
 
-- [Python Concept Explorer Assignment](https://akashdv25.github.io/assignment-1/)
-- [PySpark Exploratory Data Analysis Assignment](https://github.com/akashdv25/PySpark-EDA)
-- [Python Package Development Assignment](https://github.com/akashdv25/sensitive_data_detector)
-- [PySpark Flight Data Analysis Assignment](https://github.com/akashdv25/PySpark-EDA-Flights-Data )
-- [Voice Agents Assignment](https://github.com/akashdv25/Voice-Agents)
-- [Medical Assistant Assignment](https://github.com/akashdv25/medical-ai-assistant)
-- [Livekit Voice Agent Assignment](https://github.com/akashdv25/Livekit-google)
-- [Pandas AGI Assignment](https://github.com/akashdv25/Pandas-agi)
-- [E2E ML Pipeline Assignment](https://github.com/akashdv25/E2E-ML-Pipeline)
+- [Python Concept Explorer](https://akashdv25.github.io/assignment-1/)
+- [PySpark Exploratory Data Analysis](https://github.com/akashdv25/PySpark-EDA)
+- [Python Package Development](https://github.com/akashdv25/sensitive_data_detector)
+- [PySpark Flight Data Analysis](https://github.com/akashdv25/PySpark-EDA-Flights-Data )
+- [Voice Agents](https://github.com/akashdv25/Voice-Agents)
+- [Medical Assistant](https://github.com/akashdv25/medical-ai-assistant)
+- [Livekit Voice Agent](https://github.com/akashdv25/Livekit-google)
+- [Pandas AGI](https://github.com/akashdv25/Pandas-agi)
+- [E2E ML Pipeline](https://github.com/akashdv25/E2E-ML-Pipeline)
+- [Real Time Server Monitoring  and forecasting System](https://github.com/akashdv25/Time-Series-Forecasting)
+
 
 ## My Published Videos
 
@@ -89,6 +91,7 @@ This repository is organized into folders for each week of my internship. Each f
 - [Building an end-to-end ML pipeline for bank customer churn prediction](https://medium.com/@akashanandani.56/building-an-end-to-end-ml-pipeline-for-bank-customer-churn-prediction-9c754162e8d3)
 - [Interpreting black box models with SHAP a beginners guide](https://medium.com/@akashanandani.56/interpreting-black-box-models-with-shap-a-beginners-guide-c50f45b3161d)
 - [Model monitoring in machine learning explained with evidently ai](https://medium.com/@akashanandani.56/model-monitoring-in-machine-learning-explained-with-evidently-ai-c45559af0e22)
+- [Building a real-time server monitoring system with ai powered forecasting](https://medium.com/@akashanandani.56/building-a-real-time-server-monitoring-system-with-ai-powered-forecasting-af0ce53b5510)
 
 
 ## Check-out the Repo website!
